@@ -3,7 +3,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 
 require 'contentstack/version'
 Gem::Specification.new do |s|
-  s.name = %q{contentstack}
+  s.name = "sunil"
   s.version = Contentstack::VERSION.dup
   s.date = Time.now
   s.authors = [%q{Contentstack}]
